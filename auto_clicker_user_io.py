@@ -3,6 +3,7 @@ import keyboard
 import time
 
 clicker_active = False
+# pyautogui.PAUSE = 1 # Seconds between actions
 
 try:
     while True:
